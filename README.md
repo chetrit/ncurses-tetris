@@ -23,3 +23,8 @@ To launch the game with options and / or debug mode and to display the rules, al
 ```
 
 All tetriminos are in ``tetriminos`` folder, and you can add your own ones and delete the ones you don't like, wich makes it a completely customizable version of tetris !
+
+## Contributors
+
+ - [Alexandre Chetrit](https://github.com/chetrit)
+ - [Nicolas Allain](https://github.com/Nirasak)
