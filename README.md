@@ -2,7 +2,7 @@
 
 > This project is basically the game tetris, recoded in C with ncurses library, It includes a debug mode that allows you to customize your tetriminos and start to a special state of the game (levelwise) ...
 
-![Image of Tetris](https://prnt.sc/uhq62i)
+![](.github/artwork.png)
 
 # Installation, compilation and utilization
 #### Installation
